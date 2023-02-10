@@ -1,1 +1,1 @@
-alert ("Я – JavaScript!")
+<script src="/TaskFromBook/2_1_2.js"></script>
